@@ -1,0 +1,16 @@
+C:\Users\ABDULATEEF\Desktop\AlphaApp\bin\Debug\net5.0\AlphaApp.exe
+C:\Users\ABDULATEEF\Desktop\AlphaApp\bin\Debug\net5.0\AlphaApp.deps.json
+C:\Users\ABDULATEEF\Desktop\AlphaApp\bin\Debug\net5.0\AlphaApp.runtimeconfig.json
+C:\Users\ABDULATEEF\Desktop\AlphaApp\bin\Debug\net5.0\AlphaApp.runtimeconfig.dev.json
+C:\Users\ABDULATEEF\Desktop\AlphaApp\bin\Debug\net5.0\AlphaApp.dll
+C:\Users\ABDULATEEF\Desktop\AlphaApp\bin\Debug\net5.0\ref\AlphaApp.dll
+C:\Users\ABDULATEEF\Desktop\AlphaApp\bin\Debug\net5.0\AlphaApp.pdb
+C:\Users\ABDULATEEF\Desktop\AlphaApp\obj\Debug\net5.0\AlphaApp.csproj.AssemblyReference.cache
+C:\Users\ABDULATEEF\Desktop\AlphaApp\obj\Debug\net5.0\AlphaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULATEEF\Desktop\AlphaApp\obj\Debug\net5.0\AlphaApp.AssemblyInfoInputs.cache
+C:\Users\ABDULATEEF\Desktop\AlphaApp\obj\Debug\net5.0\AlphaApp.AssemblyInfo.cs
+C:\Users\ABDULATEEF\Desktop\AlphaApp\obj\Debug\net5.0\AlphaApp.csproj.CoreCompileInputs.cache
+C:\Users\ABDULATEEF\Desktop\AlphaApp\obj\Debug\net5.0\AlphaApp.dll
+C:\Users\ABDULATEEF\Desktop\AlphaApp\obj\Debug\net5.0\ref\AlphaApp.dll
+C:\Users\ABDULATEEF\Desktop\AlphaApp\obj\Debug\net5.0\AlphaApp.pdb
+C:\Users\ABDULATEEF\Desktop\AlphaApp\obj\Debug\net5.0\AlphaApp.genruntimeconfig.cache
