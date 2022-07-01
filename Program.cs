@@ -300,7 +300,45 @@ namespace AlphaApp
                 }
             }
             Console.ReadLine();
+            //      No 10
+            
+            
 
+            int[] arr = new int[20];
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                arr[i] = i * 5;
+                Console.WriteLine(arr[i]);
+            }
+                               // 12
+               
+
+             int Count = 1, tempCount = 1, number = 0;
+
+			    Console.Write ("Enter array length: ");
+			    int Length = Int32.Parse (Console.ReadLine ());
+			    int[] Array = new int[length];
+
+             for (int i = 0; i < Array.Length; i++) 
+			   {
+				    Console.Write ("Enter {0} element: ", i);
+				    Array [i] = Int32.Parse (Console.ReadLine ());
+			   }
+
+			   for (int i = 0; i < Array.Length - 1; i++) 
+			   {
+                  if (arr[i] == Array[i + 1]) tempCount++;
+                  else tempCount = 1;
+
+				  if (tempCount > Count) 
+				{
+					Count = tempCount;
+					number = Array [i];
+				}
+			   }
+
+			     for (int i = 0; i < Count; i++) Console.Write ("{0}, ", number);
 
          } 
       
