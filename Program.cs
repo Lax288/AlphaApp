@@ -154,7 +154,7 @@ namespace AlphaApp
                   Console.WriteLine(Month[i]);
                }*/    
                     // No 1
-
+                  
                int count = 0;
     
                Console.Write("Enter first num: ");
